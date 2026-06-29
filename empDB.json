@@ -1,354 +1,376 @@
 {
   "employees": [
     {
-      "id": 1,
+      "id": "1",
       "name": "James Smith",
       "location": "New York",
       "phone": "555-0101",
       "designation": "Software Engineer"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mary Johnson",
       "location": "San Francisco",
       "phone": "555-0102",
       "designation": "Product Manager"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "John Williams",
       "location": "Austin",
       "phone": "555-0103",
       "designation": "Data Scientist"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Patricia Brown",
       "location": "Seattle",
       "phone": "555-0104",
       "designation": "UX Designer"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Robert Jones",
       "location": "New York",
       "phone": "555-0105",
       "designation": "DevOps Engineer"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Jennifer Garcia",
       "location": "Los Angeles",
       "phone": "555-0106",
       "designation": "QA Analyst"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Michael Miller",
       "location": "Chicago",
       "phone": "555-0107",
       "designation": "HR Specialist"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Elizabeth Davis",
       "location": "Austin",
       "phone": "555-0108",
       "designation": "Marketing Manager"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "William Rodriguez",
       "location": "San Francisco",
       "phone": "555-0109",
       "designation": "Frontend Developer"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Barbara Martinez",
       "location": "Seattle",
       "phone": "555-0110",
       "designation": "Backend Developer"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "David Hernandez",
       "location": "New York",
       "phone": "555-0111",
       "designation": "Solutions Architect"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Susan Lopez",
       "location": "Boston",
       "phone": "555-0112",
       "designation": "Business Analyst"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Richard Gonzalez",
       "location": "Chicago",
       "phone": "555-0113",
       "designation": "System Administrator"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Jessica Wilson",
       "location": "Denver",
       "phone": "555-0114",
       "designation": "Content Strategist"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Joseph Anderson",
       "location": "Austin",
       "phone": "555-0115",
       "designation": "Security Engineer"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Sarah Thomas",
       "location": "San Francisco",
       "phone": "555-0116",
       "designation": "Product Designer"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Thomas Taylor",
       "location": "Seattle",
       "phone": "555-0117",
       "designation": "Full Stack Developer"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Karen Moore",
       "location": "New York",
       "phone": "555-0118",
       "designation": "Data Engineer"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Christopher Jackson",
       "location": "Los Angeles",
       "phone": "555-0119",
       "designation": "SEO Specialist"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Nancy Martin",
       "location": "Boston",
       "phone": "555-0120",
       "designation": "Office Manager"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Matthew Lee",
       "location": "Atlanta",
       "phone": "555-0121",
       "designation": "Sales Executive"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Lisa Perez",
       "location": "Dallas",
       "phone": "555-0122",
       "designation": "Accountant"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Daniel Thompson",
       "location": "Austin",
       "phone": "555-0123",
       "designation": "Cloud Architect"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Betty White",
       "location": "Denver",
       "phone": "555-0124",
       "designation": "Technical Writer"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Paul Harris",
       "location": "Chicago",
       "phone": "555-0125",
       "designation": "Network Engineer"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Sandra Sanchez",
       "location": "San Francisco",
       "phone": "555-0126",
       "designation": "Scrum Master"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Mark Clark",
       "location": "Seattle",
       "phone": "555-0127",
       "designation": "Engineering Manager"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Ashley Ramirez",
       "location": "New York",
       "phone": "555-0128",
       "designation": "Graphic Designer"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "George Lewis",
       "location": "Los Angeles",
       "phone": "555-0129",
       "designation": "Video Editor"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Kimberly Robinson",
       "location": "Atlanta",
       "phone": "555-0130",
       "designation": "PR Manager"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "Kenneth Walker",
       "location": "Austin",
       "phone": "555-0131",
       "designation": "Machine Learning Engineer"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Emily Young",
       "location": "Boston",
       "phone": "555-0132",
       "designation": "Product Marketing Manager"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Steven Allen",
       "location": "Dallas",
       "phone": "555-0133",
       "designation": "Support Specialist"
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Donna King",
       "location": "Denver",
       "phone": "555-0134",
       "designation": "Executive Assistant"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Edward Wright",
       "location": "San Francisco",
       "phone": "555-0135",
       "designation": "VP of Engineering"
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Michelle Scott",
       "location": "Seattle",
       "phone": "555-0136",
       "designation": "Data Analyst"
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Brian Torres",
       "location": "New York",
       "phone": "555-0137",
       "designation": "Mobile Developer"
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Carol Nguyen",
       "location": "Chicago",
       "phone": "555-0138",
       "designation": "Financial Analyst"
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Ronald Hill",
       "location": "Austin",
       "phone": "555-0139",
       "designation": "Database Administrator"
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Amanda Flores",
       "location": "Los Angeles",
       "phone": "555-0140",
       "designation": "Social Media Manager"
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "Anthony Green",
       "location": "Atlanta",
       "phone": "555-0141",
       "designation": "Sales Manager"
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Melissa Adams",
       "location": "Boston",
       "phone": "555-0142",
       "designation": "HR Manager"
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Kevin Nelson",
       "location": "Dallas",
       "phone": "555-0143",
       "designation": "IT Support Engineer"
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "Deborah Baker",
       "location": "Denver",
       "phone": "555-0144",
       "designation": "Operations Director"
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "Jason Hall",
       "location": "San Francisco",
       "phone": "555-0145",
       "designation": "Principal Engineer"
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "Stephanie Rivera",
       "location": "Seattle",
       "phone": "555-0146",
       "designation": "UI Developer"
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "Jeff Campbell",
       "location": "New York",
       "phone": "555-0147",
       "designation": "Infrastructure Architect"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Rebecca Mitchell",
       "location": "Chicago",
       "phone": "555-0148",
       "designation": "Talent Acquisition Specialist"
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "Ryan Carter",
       "location": "Austin",
       "phone": "555-0149",
       "designation": "Business Development Manager"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Sharon Roberts",
       "location": "Los Angeles",
       "phone": "555-0150",
       "designation": "Creative Director"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "W2YZPkKa3yo"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "SeeS6zKiuLI"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "FqvKOsDMcN4"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
