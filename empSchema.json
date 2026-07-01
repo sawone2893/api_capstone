@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "required": ["name", "location", "phone", "designation", "id"],
+    "properties": {
+        "name": { 
+            "type": "string" 
+        },
+        "location": { 
+            "type": "string" 
+        },
+        "phone": { 
+            "type": "string"
+        },
+        "designation": { 
+            "type": "string" 
+        },
+        "id": { 
+            "type": "string"
+        }
+    }
+}

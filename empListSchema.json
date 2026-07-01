@@ -1,0 +1,25 @@
+{
+    "type": "array",
+    "minItems": 1,
+    "items": {
+        "type": "object",
+        "required": ["id", "name", "location", "phone", "designation"],
+        "properties": {
+            "id": { 
+                "type": "string"
+            },
+            "name": { 
+                "type": "string" 
+            },
+            "location": { 
+                "type": "string" 
+            },
+            "phone": { 
+                "type": "string"
+            },
+            "designation": { 
+                "type": "string" 
+            }
+        }
+    }
+}

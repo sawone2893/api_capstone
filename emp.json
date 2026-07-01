@@ -370,6 +370,111 @@
       "phone": "555-0101",
       "designation": "Software Engineer",
       "id": "FqvKOsDMcN4"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "Clr5DdTu7JY"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "J2TEpZVglBY"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "WOivxG7RINo"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "DGZ-7pr3Pzo"
+    },
+    {
+      "name": "Shabbir Rayeen",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "QA Engineer",
+      "id": "ZeVkhYyz1rs"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "cQM9CKDy-u8"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "JTOQHLKLvKU"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "hkVYZrlFwNY"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "jhMaJE1HK2g"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "555-0101",
+      "designation": "Software Engineer",
+      "id": "BNFt6fuD26E"
+    },
+    {
+      "name": "",
+      "location": "",
+      "phone": "",
+      "designation": "",
+      "id": "3_pOLKuWifA"
+    },
+    {
+      "name": "{{u_name}}",
+      "location": "{{u_location}}",
+      "phone": "{{u_phone}}",
+      "designation": "{{u_designation}}",
+      "id": "MRwia1ym0bY"
+    },
+    {
+      "name": "{{name}}",
+      "location": "{{location}}",
+      "phone": "{{phone}}",
+      "designation": "{{designation}}",
+      "id": "uyWHQmJwnyM"
+    },
+    {
+      "name": "Shabbir",
+      "location": "Jhansi",
+      "phone": "8656083686",
+      "designation": "QA Automation Lead",
+      "id": "9baHdsQWqe8"
+    },
+    {
+      "name": "Shabbir Rayeen",
+      "location": "Kanpur",
+      "phone": "82996",
+      "designation": "QA Automation Lead",
+      "id": "xQk_eTWv6mY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
